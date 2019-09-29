@@ -1,6 +1,7 @@
 # etsy_project
 Scraping Etsy site for music related items. Multivariate OLS for looking at relationship between Etsy sellers total sales and controls.
-# Scraping
+
+# Scraping and Python Code
 - EtsyProScrape2.py -> scraping the Etsy site
 - EtsyProScrapeSell.py -> scraping the Etsy site for unique sellers
 - Etsy Project Cleaning.py -> To clean the dataset

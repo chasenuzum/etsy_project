@@ -13,4 +13,4 @@ Scraping Etsy site for music related items. Multivariate OLS for looking at rela
 - EtsyDataClean.csv -> clean data
 
 # Presentation
-- Etsy Music Presentation.ppt
+- Etsy Music Presentation.pptx
